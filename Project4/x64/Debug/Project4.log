@@ -1,0 +1,5 @@
+﻿  Źródło.c
+C:\Users\awilk\Desktop\Studia\sem 3\Programowanie w C\projekt kalkulator\Project4\Źródło.c(44): warning C4013: niezdefiniowany "gets"; przy założeniu, że extern zwraca int
+C:\Users\awilk\Desktop\Studia\sem 3\Programowanie w C\projekt kalkulator\Project4\Źródło.c(35): warning C4101: "wynik_re": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\awilk\Desktop\Studia\sem 3\Programowanie w C\projekt kalkulator\Project4\Źródło.c(35): warning C4101: "wynik_im": lokalna zmienna, do której nie istnieje odwołanie
+  Project4.vcxproj -> C:\Users\awilk\Desktop\Studia\sem 3\Programowanie w C\projekt kalkulator\x64\Debug\Project4.exe
